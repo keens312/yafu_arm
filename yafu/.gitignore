@@ -1,0 +1,15 @@
+# .gitignore
+# Build artifacts
+*.o
+*.a
+/yafu
+
+# Logs / Checkpoints
+*.log
+siqs.dat
+cadoWorkdir
+/*.db
+/nfs.*
+*.optrpt
+*.obj
+*.tlog
